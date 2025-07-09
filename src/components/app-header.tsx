@@ -8,7 +8,6 @@ import {
     DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import { ChevronDown } from 'lucide-react'
-import { AppLogo } from './app-logo'
 import { AppSidebar } from './app-sidebar'
 
 export function AppHeader() {
